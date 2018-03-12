@@ -6,11 +6,11 @@ If you clone this repo, you're on the way to join a really great team : ours.
 
 You'll be faced to three challenges for your test :
 
-* A simple algorythm exercice type fizzbuzz (but not fizzbuzz, we're serious business).
+* A simple algorithm exercice type fizzbuzz (but not fizzbuzz, we're serious business).
 * A simple clone, docker, branch, debug, demo, push.
 * A database optimisation
 
-## The algorythm exercice
+## The algorithm exercice
 
 Depend on our humor, you'll see on site.
 
