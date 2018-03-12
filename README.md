@@ -21,6 +21,7 @@ Unfortunately, your predecessor has deliver an unfunctionnal TicTacToe Game made
 Fortunately, you're here to save the day. You have to : 
 
 * Clone this repository on your machine
+* Go to the app repository
 * Launch the docker and create your test interface
 * Create a branch named after you
 * Patch the problem
@@ -29,4 +30,9 @@ Fortunately, you're here to save the day. You have to :
 
 ## The database
 
-TODO
+Now we're sure you're the man for the development, you'll have to be the man for the data. Our client love their datas, but they are no use without you.
+
+You'll find another docker in the sql repository and a database named Sakila. Now launch this new container, import the data in a database and answer the following questions with the right query :
+
+* How many film in the db?
+* ...
