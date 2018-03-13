@@ -35,4 +35,7 @@ Now we're sure you're the man for the development, you'll have to be the man for
 You'll find another docker in the sql repository and a database named Sakila. Now launch this new container, import the data in a database and answer the following questions with the right query :
 
 * How many "film" in the db?
-* ...
+* How many film for each category ?
+* What's the purpose of the view "sales_by_store"
+* Why the view "nicer_but_slower_films_list" is nicer but slower than the view "films_list" ?
+* Propose a query to find the best customer by store (and explain your choice)
